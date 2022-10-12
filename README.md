@@ -1,0 +1,1 @@
+npm i socket.io-client uuid dockerstats axios
